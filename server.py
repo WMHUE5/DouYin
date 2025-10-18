@@ -9,8 +9,8 @@ import time
 # ==========================
 # 配置
 # ==========================
-ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN", "your_access_token_here")
-ROOM_ID = os.environ.get("ROOM_ID", "your_room_id_here")
+ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN", "clt.39afc90818a46c217f520832f4c0bec72dq4f589e8USLqwqJV8Ig5fn65eL_lf")
+ROOM_ID = os.environ.get("ROOM_ID", "570021721892")
 RECONNECT_DELAY = 5  # 秒
 
 # ==========================
